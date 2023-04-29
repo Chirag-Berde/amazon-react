@@ -14,7 +14,7 @@ body{
     transform: translateY(-5px);
 }
 /* miniTv image css */
-.row img {
+.mini-tv img {
  border-radius: 20px;
 }
 
